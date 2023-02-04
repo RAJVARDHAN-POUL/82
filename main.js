@@ -1,0 +1,18 @@
+console.log("Hello Console");
+var namee="Rajvardhan";
+console.log(namee);
+var lname=" Paul";
+console.log(lname);
+var fullname=namee.concat(lname);
+console.log(fullname);
+console.log("length of full name= "+fullname.length);
+var newname= fullname.replace("Rajvardhan","Ranveer");
+console.log(newname);
+var cap="BUGATTI";
+console.log(cap.toLowerCase());
+var low="bugatti";
+console.log(low.toUpperCase());
+console.log(Math.sqrt (25));
+console.log(Math.pow (20,3));
+console.log(Math.max (25,50));
+console.log(Math.min (25,-25));
